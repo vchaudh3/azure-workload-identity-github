@@ -21,8 +21,8 @@ jobs:
     name: Build the stuff
     runs-on: ubuntu-latest
     env:
-      account_name: 'isvreleases'
-      container_name: 'backendrelease'
+      account_name: 'savchaudh3persistent'
+      container_name: 'container-2'
       filename: 'src.zip'
     steps:
       - uses: actions/checkout@v3
