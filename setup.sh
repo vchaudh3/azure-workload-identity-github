@@ -8,8 +8,8 @@ githubUser="vchaudh3"
 githubRepo="azure-workload-identity-github"
 
 # Azure storage account and blob container name
-account_name="isvreleases"
-container_name="backendrelease"
+account_name="savchaudh3persistent"
+container_name="container-2"
 
 ## Setup
 ### Azure AD
