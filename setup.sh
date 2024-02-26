@@ -4,7 +4,7 @@
 appDisplayName="chgeuer-repo-demo2"
 
 # repository on github
-githubUser="chgeuer"
+githubUser="vchaudh3"
 githubRepo="azure-workload-identity-github"
 
 # Azure storage account and blob container name
